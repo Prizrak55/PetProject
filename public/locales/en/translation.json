@@ -11,5 +11,7 @@
   "Main": "Main",
   "About us": "About us",
   "Short Lang": "En",
-  "login": "login"
+  "login": "login",
+  "increment": "increment",
+  "decrement": "decrement"
 }

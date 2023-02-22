@@ -11,5 +11,7 @@
   "Main": "Главная",
   "About us": "О сайте",
   "Short Lang": "Ru",
-  "login": "Войти"
+  "login": "Войти",
+  "increment": "Плюс",
+  "decrement": "Минус"
 }
