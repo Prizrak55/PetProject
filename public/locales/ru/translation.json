@@ -13,5 +13,7 @@
   "Short Lang": "Ru",
   "login": "Войти",
   "increment": "Плюс",
-  "decrement": "Минус"
+  "decrement": "Минус",
+  "loginName": "Введите имя",
+  "password": "пароль"
 }
