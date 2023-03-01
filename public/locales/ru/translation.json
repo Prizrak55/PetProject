@@ -18,5 +18,6 @@
   "password": "пароль",
   "authForm": "Форма Авторизации",
   "Error login or password": "Неправильный логин или пароль",
-  "sign out": "Выйти"
+  "sign out": "Выйти",
+  "Profile": "Профиль"
 }

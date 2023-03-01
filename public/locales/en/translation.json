@@ -18,5 +18,6 @@
   "password": "password",
   "authForm": "Authorisatio From",
   "Error login or password": "Error login or password",
-  "sign out": "sign out"
+  "sign out": "sign out",
+  "Profile": "Profile"
 }
