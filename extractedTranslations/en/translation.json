@@ -1,8 +1,11 @@
 {
+  "": "",
   "About us": "",
   "An error has occurred": "",
+  "Error login or password": "",
   "Main": "",
   "Not found page": "",
+  "authForm": "",
   "decrement": "",
   "increment": "",
   "ligon": "",
@@ -10,7 +13,9 @@
   "loginName": "",
   "password": "",
   "refresh page": "",
+  "sign out": "",
   "toggle": "",
+  "Вы ввели неверный логин или пароль": "",
   "Главная страница": "",
   "Язык": ""
 }

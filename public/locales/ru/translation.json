@@ -15,5 +15,8 @@
   "increment": "Плюс",
   "decrement": "Минус",
   "loginName": "Введите имя",
-  "password": "пароль"
+  "password": "пароль",
+  "authForm": "Форма Авторизации",
+  "Error login or password": "Неправильный логин или пароль",
+  "sign out": "Выйти"
 }

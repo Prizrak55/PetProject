@@ -15,5 +15,8 @@
   "increment": "increment",
   "decrement": "decrement",
   "loginName": "login",
-  "password": "password"
+  "password": "password",
+  "authForm": "Authorisatio From",
+  "Error login or password": "Error login or password",
+  "sign out": "sign out"
 }
