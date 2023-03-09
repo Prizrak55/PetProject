@@ -1,0 +1,19 @@
+{
+  "Profile user": "Профиль пользователя",
+  "edit": "редактировать",
+  "Your name": "Ваше имя",
+  "Your last name": "Ваша фамилия",
+  "cancel": "отменить",
+  "save": "сохранить",
+  "Your old": "Ваш возраст",
+  "City": "Город",
+  "User name": "Имя пользователя",
+  "Avatar": "Аватар",
+  "currency": "валюта",
+  "country": "страна",
+  "incorrect age": "неправильный возвраст",
+  "incorrect country": "неверная страна",
+  "incorrect data user": "неверные данные пользователя",
+  "no data": "нет данных",
+  "server error": "ошибка сервера"
+}

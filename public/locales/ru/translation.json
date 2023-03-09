@@ -19,5 +19,6 @@
   "authForm": "Форма Авторизации",
   "Error login or password": "Неправильный логин или пароль",
   "sign out": "Выйти",
-  "Profile": "Профиль"
+  "Profile": "Профиль",
+  "Error loading": "Ошибка в загрузке"
 }

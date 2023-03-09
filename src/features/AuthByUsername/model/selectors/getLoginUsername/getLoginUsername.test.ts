@@ -1,5 +1,3 @@
-import { DeepPartial } from '@reduxjs/toolkit';
-import { render, screen } from '@testing-library/react';
 import { StateSchema } from 'app/providers/StorePropvider';
 import { getLoginUsername } from './getLoginUsername';
 
