@@ -55,7 +55,7 @@ module.exports = {
       },
     ],
     'linebreak-style': 'off',
-    'max-len': ['error', { ignoreComments: true, code: 100 }],
+    'max-len': ['error', { ignoreComments: true, code: 106 }],
   },
   globals: {
     __IS_DEV__: true,

@@ -20,5 +20,7 @@
   "Error login or password": "Неправильный логин или пароль",
   "sign out": "Выйти",
   "Profile": "Профиль",
-  "Error loading": "Ошибка в загрузке"
+  "Error loading": "Ошибка в загрузке",
+  "article details": "детальная страница статьи",
+  "articles": "статьи"
 }

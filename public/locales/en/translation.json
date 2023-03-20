@@ -20,5 +20,7 @@
   "Error login or password": "Error login or password",
   "sign out": "sign out",
   "Profile": "Profile",
-  "Error loading": "Error loading"
+  "Error loading": "Error loading",
+  "article details": "article details",
+  "articles": "articles"
 }
